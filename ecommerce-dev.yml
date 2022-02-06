@@ -1,3 +1,3 @@
 token:
   expiration_time: 864000000
-  secret: updated_token_secret_dev_remote_repository_cloud_bus
+  secret: updated_token_secret_dev_remote_repository_cloud_bus#2
