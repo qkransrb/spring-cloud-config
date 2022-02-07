@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
-    username: '{cipher}b8b9908363469ec72a235fe05d776449dc504da1f45e5a70534c8df96e4e7821'
+    username: '{cipher}AQBGjpdeeVKtj2aei5kq/3yPBUvzhl7DOiwSX+glmEg30si2gp0X1AUVmerFf4Qx70VPcv0p1WqIhVPJt4C3OaOZ+lIzfqthvdQgMD3nxWga9bdWZK5EgYUats0iPFb+KDkplcLwrM/0z3za7YN6ZjmS5eRvm+jw3q2nX1Q/mga2ohjmYxvX09tk28Orhcse97KHpYIShc+LBuFtQnW8ZvUnGxjRgvHNTKM4WFwyzaaycKevPEKy3ROghYlkwaZjkzuSdYYJ4z+bO5QrlmlhPLJzEN2T5vqUNrtQjgSOYkpBo9cXWAfN+mMnM3d32Anx8ZTIwD1QbesGYyfhlE1VKDPwIGHXh+3wqG9BIjgJLvjUnmtAJ+lHjcU9aNwQ3ne0voY='
     password: 
 
 token:
