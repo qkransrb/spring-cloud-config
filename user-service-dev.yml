@@ -7,4 +7,4 @@ spring:
 
 token:
   expiration_time: 864000000
-  secret: token_secret
+  secret: '{cipher}AQCljaaBo0Xoj9o1lDDlZ++Ua7s7NU7/ZAk+0vgdClFIO1Yxbofo0m51BM71/yRxdyjfRyvXe3aJtub9bwgkddgMISMeqxRVGFhVEr+XD0NO8VlyNm8X10UwDvV0hTkdM91U6Mg8yL6phUaQwkGABz88Nl359w4uY1Eg8jvN4g2RDHwUxxO8okE/Qwy5n19UpncUVLlyO3pEK1eNEDdcDuqd+VUjEt8V4k+6tNQpy9I2ymnt6NeiQtI6L7K+qd/1HS1qsZHa9bH/sQsOjKXfsaaDonpu8do+3ZPm981zUhXm/929jdejZy3ZEylu6DtLpRJT34YaXmnTiNtDPV/Q4+Qa0jxl7F3iK78dGZKtZY3RyRJ2TLJtdOgv5dlL1KeFtbI='
